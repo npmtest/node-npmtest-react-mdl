@@ -1,4 +1,7 @@
-# test coverage for  [react-mdl (v1.10.0)](https://github.com/tleunen/react-mdl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-mdl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-mdl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-mdl.svg)](https://travis-ci.org/npmtest/node-npmtest-react-mdl)
+# npmtest-react-mdl
+
+#### basic test-coverage for  [react-mdl (v1.10.0)](https://github.com/tleunen/react-mdl#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-react-mdl.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-react-mdl) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-react-mdl.svg)](https://travis-ci.org/npmtest/node-npmtest-react-mdl)
+
 #### React Components for Material Design Lite
 
 [![NPM](https://nodei.co/npm/react-mdl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-mdl)
@@ -168,7 +171,8 @@
         "test:suite": "karma start --single-run",
         "test:watch": "karma start --auto-watch"
     },
-    "version": "1.10.0"
+    "version": "1.10.0",
+    "bin": {}
 }
 ```
 
